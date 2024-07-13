@@ -1,0 +1,12 @@
+1. Install reduxjs/toolkit, react-redux and axios
+2. Install firebase and create project and create firebase file in src and paste code
+3. Get Auth and enable google Auth
+4. Create LoginHandler in login page
+5. Create redux folder in src
+6. For using reducer we have to create store
+7. After Creating store then we have to wrap app in Provider
+8. Then create APIs using createAPI and name reducer according to that
+9. Create ResultType and User Type
+10. Add api to the store
+11. After that we have to use redux reducer 
+12. Add user Reducers to store

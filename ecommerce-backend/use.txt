@@ -1,0 +1,15 @@
+
+-> multer for file uplaods
+-> makes folder static so that files can be shown
+
+-> New Feature Launch
+    1. make models means make schema
+        -> can also define new type for models
+    2. define routes
+    3. create controller i.e. define function for product
+    4. Create if any middlewares are required ( these are funtions for before main funciton call i.e. controller)
+    5. Create types of data inside types.ts
+
+
+-> uuid for generating unique ids
+-> NodeCache for caching data

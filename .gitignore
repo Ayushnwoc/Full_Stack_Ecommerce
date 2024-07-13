@@ -1,0 +1,63 @@
+# Ignore node_modules and environment files in both frontend and backend
+/ecommerce-frontend/node_modules/
+/ecommerce-frontend/.env
+/ecommerce-frontend/.env.local
+/ecommerce-frontend/.env.development.local
+/ecommerce-frontend/.env.test.local
+/ecommerce-frontend/.env.production.local
+
+
+/ecommerce-backend/node_modules/
+/ecommerce-backend/.env
+/ecommerce-backend/.env.local
+/ecommerce-backend/.env.development.local
+/ecommerce-backend/.env.test.local
+/ecommerce-backend/.env.production.local
+/ecommerce-backend/dist
+
+# Common ignore patterns
+node_modules/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore build outputs
+dist/
+build/
+coverage/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+jspm_packages/
+
+# Typescript
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# IDE specific files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
